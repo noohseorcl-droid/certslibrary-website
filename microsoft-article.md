@@ -1,10 +1,12 @@
-# Microsoft Certification Guide 2026: Study Resources at CertsLibrary
+Microsoft Certification Guide 2026: Study Resources at CertsLibrary
 
 In today’s fast-growing IT industry, Microsoft certifications are highly valuable for career growth and skill development. :contentReference[oaicite:0]{index=0} certifications help professionals build expertise in cloud computing, security, data, and enterprise technologies.
 
+<img width="5760" height="3456" alt="Microsoft" src="https://github.com/user-attachments/assets/49d36592-95ed-4b00-b4a6-ee7c5f94edf2" />
+
 ## Importance of Microsoft Certifications
 
-Microsoft certifications are globally recognized and trusted by employers. They prove that an individual has practical knowledge of Microsoft technologies and can work in real IT environments.
+[Microsoft certifications](https://certslibrary.com/vendors/microsoft) are globally recognized and trusted by employers. They prove that an individual has practical knowledge of Microsoft technologies and can work in real IT environments.
 
 These certifications help in:
 - Career advancement in IT industry  
@@ -40,7 +42,7 @@ Key benefits include:
 
 ## Why Choose CertsLibrary
 
-CertsLibrary is designed to support learners in achieving certification success. It removes confusion and provides only relevant exam preparation material.
+[CertsLibrary](https://certslibrary.com/) is designed to support learners in achieving certification success. It removes confusion and provides only relevant exam preparation material.
 
 It helps users:
 - Understand Microsoft exam objectives  
